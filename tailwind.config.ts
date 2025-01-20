@@ -1,20 +1,20 @@
 import type { Config } from "tailwindcss";
 
-const config = {
-  darkMode: ["class"],
+const config: Config = {
+  darkMode: ["class"], // Enable dark mode with class strategy
   content: [
     "./pages/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",
     "./app/**/*.{ts,tsx}",
     "./src/**/*.{ts,tsx}",
   ],
-  prefix: "",
+  prefix: "", // Optional: Set a prefix for the classes if needed
   theme: {
     container: {
-      center: true,
-      padding: "2rem",
+      center: true, // Center the container
+      padding: "2rem", // Padding for the container
       screens: {
-        "2xl": "1400px",
+        "2xl": "1400px", // Max-width for larger screens
       },
     },
     extend: {
@@ -54,7 +54,7 @@ const config = {
         },
       },
       borderRadius: {
-        lg: "var(--radius)",
+        lg: "var(--radius)", // Custom border radius values
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
@@ -74,7 +74,7 @@ const config = {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
-} satisfies Config;
+  plugins: [require("tailwindcss-animate")], // Include the animation plugin
+};
 
 export default config;
