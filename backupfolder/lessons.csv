@@ -1,0 +1,15 @@
+id,title,unitId,order
+2,Greetings,1,1
+1,Lets begin with basics,1,2
+3,Askings,2,1
+4,Normal Vocabs,3,1
+5,Next step,3,2
+6,Lev1 Inter,4,1
+7,L1 Khuzdul,5,1
+8,Nouns,6,1
+9,More,6,2
+10,HV,7,1
+11,HV2,7,2
+12,SitBas,8,1
+13,SitAme,9,2
+14,SitAdv,9,2

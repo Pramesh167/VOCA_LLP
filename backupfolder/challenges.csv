@@ -1,0 +1,38 @@
+id,lessonId,type,question,order
+1,1,SELECT,"what is ""good""",1
+2,1,SELECT,"what do we call ""boy""",2
+3,1,SELECT,"What do we call ""a girl""?",3
+4,1,SELECT,"What do we call ""a man""?",4
+5,1,ASSIST,"Translate ""Pratik is a good man""",5
+6,2,SELECT,"Translate "" Greetings...""",1
+7,2,ASSIST,"Translate ""Good Morning..""",2
+8,2,ASSIST,"Translate ""Good Night..""",3
+10,3,ASSIST,"Translate "" Love""",1
+11,3,ASSIST,"Translate "" I/Me""",2
+12,3,ASSIST,"Translate ""You..""",3
+13,3,SELECT,"Translate "" I love you...""",4
+14,4,ASSIST," What is the Tengwar word for ""friend""?",1
+15,4,SELECT,"Which word means ""star"" in Tengwar?",2
+16,5,SELECT,"How do you say ""light"" in Tengwar?",1
+17,5,SELECT,"How do you say ""light"" in Tengwar?",1
+18,6,ASSIST,"Combine the words Elen (star) and Mára (good) to form the phrase ""good star."" What is it in Tengwar?",1
+19,6,SELECT,What does the Tengwar phrase Mára Anar (MAH-rah AH-nahr) mean?,2
+20,6,SELECT,"Which of the following phrases means ""beloved friend"" in Tengwar? (Melda = beloved, Meldonya = my beloved friend)",2
+21,7,ASSIST,"What is the Khuzdul word for ""friend""?",1
+22,7,SELECT,"Which word means ""stone"" in Khuzdul?",2
+23,8,SELECT,"Which one of these is ""the man""?",1
+24,8,SELECT," Which one of these is ""the woman""?",2
+25,9,SELECT,"What is ""the zombie""?",2
+26,10,SELECT,"Which one of these is ""stone""?",1
+27,10,SELECT,"Which one of these is ""king""?",2
+28,11,ASSIST,"Which one of these is ""shadow""?",1
+29,12,SELECT,"Translate ""Language..""",1
+30,12,SELECT,"Translate "" Of..""",2
+31,12,SELECT,"Translate "" Stars..""",3
+32,12,ASSIST,"Translation of "" The language of Stars..""",4
+33,13,ASSIST,"Translate "" I..""",1
+34,13,ASSIST,"What do we call ""gods""?",2
+35,13,ASSIST,"Translate ""and""",3
+36,13,SELECT,"What do we call ""mortals""?",4
+37,14,SELECT,"Which one is "" Merth""?",1
+38,14,ASSIST,"Translate "" God created me and the mortals""",2

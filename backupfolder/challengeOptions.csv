@@ -1,0 +1,71 @@
+id,challengeId,text,correct,imageSrc,audioSrc
+1,1,naramro,false,/zombie.svg,/naramro.mp3
+2,1,ramro,true,/boy.svg,/ramro.mp3
+3,2,euta keto,true,/boy.svg,/eutaketo.mp3
+4,2,euta keti,false,/girl.svg,/eutaketi.mp3
+5,3,Euta Keti,true,/girl.svg,/eutaketi.mp3
+6,3,Euta Robot,false,/robot.svg,/eutarobot.mp3
+7,4,Euta Manchey,true,/man.svg,/eutamanchey.mp3
+8,4,Euta Keti,false,/girl.svg,/eutaketi.mp3
+9,4,Euta Keto,false,/boy.svg,/eutaketo.mp3
+10,5,Pratik euta ramro keto ho.,false,,/pkto.mp3
+11,5,Pratik euta ramro manchey ho.,true,,/pcorr.mp3
+12,5,Pratik euta asal manis ho.,false,,/pmns.mp3
+13,6,Namestey,true,/npl2/nameste.svg,/npl2/namastey.mp3
+14,7,Subha Bihani,true,/npl2/morning.png,/npl2/goodmading.mp3
+15,8,Subha Ratri,true,/npl2/gn.png,/npl2/gn.mp3
+16,10,Maya,true,,/npl2/mya.mp3
+17,10,Chaya,false,,/npl2/cya.mp3
+18,11,Timi,false,,/npl2/timi.mp3
+19,11,Ma,true,,/npl2/mah.mp3
+20,12,Timi,true,,/npl2/timi.mp3
+21,12,Chaya,false,,/npl2/cya.mp3
+22,13,Timi maya,false,,/npl2/tma.mp3
+23,13,Ma timi lai maya garchu.,true,,/npl2/myacrr.mp3
+24,13,Subha Ratri,false,,/npl2/gn.mp3
+25,14,Mellon,true,,/tengwar/mellon.mp3
+26,14,Mára,false,,/tengwar/mara.mp3
+27,14,Melda,false,,/tengwar/melda.mp3
+28,15,Elen,true,/tengwar/star.svg,/tengwar/elen.mp3
+29,15,Ahnar,false,/tengwar/anar.svg,/tengwar/anar.mp3
+30,17,Anor,false,,/tengwar/anor.mp3
+31,17,Calma,false,,/tengwar/clm.mp3
+32,18,Elensúlë,false,,/tengwar/elsu.mp3
+33,18,Elenmára,true,,/tengwar/elm.mp3
+34,18,Máraelen,false,,/tengwar/mra.mp3
+35,19,"""Bright moon""",false,/tengwar/bm.svg,/tengwar/bm.mp3
+36,19,"""Good sun""",true,/tengwar/sun.svg,/tengwar/sun.mp3
+37,20,Melda Meldo ,false,,
+38,20, Meldonya,true,,
+40,20,Meldalómë,false,,
+41,21,Khazad,false,,/khuzdul/khazad.mp3
+42,21,Melek,true,,/khuzdul/mlk.mp3
+43,23,El Hombre,true,/man.svg,/es_man.mp3
+44,23,El Robot,false,/robot.svg,/es_robot.mp3
+45,24,El Hombre,false,/man.svg,/es_man.svg
+46,24,La Muher,true,/woman.svg,/es_women.mp3
+47,25,El zombie,true,/zombie.svg,/es_zombie.mp3
+48,25,La Muher,false,/girl.svg,/es_women.mp3
+49,26,Baraz,true,,
+50,26,Milek,false,,
+51,27,Khazad,false,,
+52,27,Melek,true,,
+53,28,Sharûk,true,,
+54,28,Murakh,false,,
+55,29,Lirian,true,,/sitarian/lirian.mp3
+56,30,ien,true,,/sitarian/ien.mp3
+57,31,ithil,true,,/sitarian/ithil.mp3
+59,32,Lirian ien ithil,true,,/sitarian/lel.mp3
+60,33,Balgu,false,,/sitarian/balgu.mp3
+61,33,Dar,true,,/sitarian/dar.mp3
+62,34,Merth,true,,/sitarian/merth.mp3
+63,35,Naar,false,,/sitarian/nar.mp3
+64,35,Nad,true,,/sitarian/nad.mp3
+65,36,Mul,true,,/sitarian/mul.mp3
+66,36,Mayag,false,,/sitarian/mayag.mp3
+67,36,God,true,/sitarian/god.svg,
+68,37,Mortal,false,/man.svg,
+69,38,Blagu ishi humnadar,false,,/sitarian/blg.mp3
+70,38,Dar ishi namul merth,false,,/sitarian/dinml.mp3
+71,38,Merth balgu darnad mul,false,,/sitarian/mcr.mp3
+58,32,Ethil el nirado,false,,/sitarian/enr.mp3
